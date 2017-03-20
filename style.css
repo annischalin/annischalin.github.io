@@ -1,4 +1,10 @@
-
+article {
+	color: black;
+	text-align: justify;
+	font-family: "playfair display";
+	line-height: 2em;
+	
+}
 h1 {
     color: black;
     text-align: center;
@@ -55,5 +61,6 @@ div {
     column-count: 2; 
     column-rule-style: solid;
     column-count: 2;
+	padding: 0em 2em 0em 2em;
 	
 }
