@@ -1,0 +1,25 @@
+	{
+    "Uutiset": [
+
+        {
+            "otsikko": "Uutinen1",
+            "sisalto": "Help pls",
+            "paivanmaara": "15.3"
+            },
+        {
+            "otsikko": "Uutinen2",
+            "sisalto": "Ei enää",
+            "paivanmaara": "1.4"
+            },
+
+
+        {
+            "otsikko": "Uutinen",
+            "sisalto": "Send help",
+            "paivanmaara": "20.4"
+            }
+
+
+        ]
+
+}
